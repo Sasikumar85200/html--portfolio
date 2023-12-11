@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>H.SASI KUMAR</h1>
+        <img src="./photos/SASI EDIT PHOTO 1.jpeg" height="100" alt="Resume photo"/>
+        <h2>Summary</h2>
+       <p>I am a hardworking and dedicated individual with experience in customer service and administration.
+       </p>
+       <hr/>
+       <h2>Education</h2>
+       <ul>
+        <p><li>Bachelor of Technology in Civil Engineering -Pvkk Institute of Technology of (2019-2022)</li></p>
+        <p><li>Diploma in Civil Engineering - Pvkk Institute of Technology of (2013-2016)</li></p>
+        <li>SSC -2013</li>
+       </ul>
+       <hr/>
+       <h2>Skills</h2>
+       <ul>
+        <p><li>Java</li></p>
+        <p></p><li>Web Development(Html,Css,Java script)</li></p>
+        <p> <li>Ms Office, Ms Excell</li></p>
+        <p> <li>Cad</li></p>
+        </ul>
+        <hr/>
+        <h2>Experience</h2>
+        <ul>
+            <p><li>Gis Mapping (In Meghana Geomatics) </li></p>
+            2015-2016
+            <p><li>Project on Etabs
+                (2019-2022)
+            </li></p>
+       </ul>
+       <hr/>
+       <h2>Languages</h2>
+       <ul>
+        <p><li>English</li></p>
+        <p><li>Telugu</li></p>
+       </ul>
+       <hr/>
+       <h2>Other</h2>
+       <ul>
+        <li><a href="./Hobbies/hobbies.html">Hobbies</a></li>
+       <li> <a href="./Contact/contact.html">Contact Me</a></li>
+       </ul>
+     <footer>
+        <p>© Sasikumar. All Rights Reserved.</p>
+     </footer>  
+    </body>
+</html>
